@@ -1,2 +1,3 @@
-# web
-GitHub Pages
+# COMING SOON........
+## REACT SEARCH USERS
+Aplicación para buscar usuarios de github utilizando su API 
